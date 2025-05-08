@@ -1,6 +1,6 @@
 # **Employee Leave Tracker**
 
-I'm **Adel Azhieva **, and this is my Java project — **Employee Leave Tracker**. This simple console application helps track employee leave records.
+I'm **Adel Azhieva**, and this is my Java project — **Employee Leave Tracker**. This simple console application helps track employee leave records.
 
 ##  What the Program Does
 
