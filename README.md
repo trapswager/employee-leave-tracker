@@ -95,8 +95,8 @@ To enhance functionality, I added the ability to generate reports showing the to
 ## Conclusion
 The *Employee Leave Tracker* project successfully meets its goals. It allows for effective management of employee data, data export/import, and report generation. The implemented logging and file storage ensure that data is available between sessions, and the simple console interface makes the application user-friendly.
 
+![Screenshot](screenshotik.png)
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 2b0d659693cb21e9dc7c5277812dfbbdf42b3f8b
+
+
